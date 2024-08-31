@@ -1,4 +1,4 @@
-package com.gentech.csvDemo;
+package com.gentech.csvdemo;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
